@@ -19,4 +19,4 @@ Model Used: Random Forest Classifier
 Accuracy: 100%
 
 ## 🔗 Links
-- [Colab Notebook]([link-to-colab-if-shared](https://colab.research.google.com/drive/1K9JjT4ng0NX6uirMBFvthUt2GnYEVPHR#scrollTo=1iT4BBNvBGks))
+- [Colab Notebook][link-to-colab-if-shared](https://colab.research.google.com/drive/1K9JjT4ng0NX6uirMBFvthUt2GnYEVPHR#scrollTo=1iT4BBNvBGks)
